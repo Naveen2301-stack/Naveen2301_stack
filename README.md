@@ -1,7 +1,6 @@
-[![MasterHead](https://www.hyperinteractive.de/wp-content/uploads/2022/05/full-stack-developer.gif)]
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar Reddy</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 🔭 I’m currently working on **E-commerce Web Application(Java+SpringBoot)**
